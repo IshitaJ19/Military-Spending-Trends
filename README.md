@@ -11,6 +11,6 @@ Over 7 years: 2010 to 2017
 All monetary data is in constant 2010 USD.
 All data has been scaled to be in billions. 
 
-This project is done as part of DATS6103 - Introduction to Data Mining at The George Washington University.
+This project is done as part of DATS6103 - Introduction to Data Mining at The George Washington University (Oct 2018).
 
 
