@@ -6,7 +6,7 @@ Military expenditure refers to all government spending on current military force
 
 The analysis has been done on GDP, Military Spending (as percentage of GDP) and Population figures for 10 countries: 
 United States, France, China, Saudi Arabia, United Kingdom, Italy, South Korea, Germany, Russia and Israel,
-Over 7 years: 2010 to 2017
+Over 8 years: 2010 to 2017
 
 All monetary data is in constant 2010 USD.
 All data has been scaled to be in billions. 
